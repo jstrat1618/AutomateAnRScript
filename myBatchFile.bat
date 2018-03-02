@@ -1,0 +1,1 @@
+"C:\Program Files\R\R-3.4.0\bin\Rscript.exe"  C:\Users\JustinandAbigail\Desktop\Fun_Projects\automateAnRScript\myscript.R
